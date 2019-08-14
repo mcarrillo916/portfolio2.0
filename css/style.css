@@ -1,0 +1,10 @@
+body{
+    min-height: 200vh;
+}
+
+nav{}
+
+.logo{
+    font-weight: 300;
+    padding: 15px;
+}
